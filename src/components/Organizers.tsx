@@ -7,10 +7,33 @@ export default function Organizers() {
         </h2>
         <p className="text-gray-400 leading-relaxed max-w-2xl">
           This event is coordinated by multiple contributors, including the{" "}
-          <span className="text-white">Ethereum Everywhere</span> team at the{" "}
-          <span className="text-white">Ethereum Foundation</span> and members of the local
-          community, and is hosted at Funkhaus by{" "}
-          <span className="text-white">Futura Camp</span>.
+          <a
+            href="https://x.com/EFetheverywhere"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white hover:text-[#80E0DC] transition-colors"
+          >
+            Ethereum Everywhere
+          </a>{" "}
+          team at the{" "}
+          <a
+            href="https://ethereum.foundation/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white hover:text-[#80E0DC] transition-colors"
+          >
+            Ethereum Foundation
+          </a>{" "}
+          and members of the local community, and is hosted at Funkhaus by{" "}
+          <a
+            href="https://futura.camp/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white hover:text-[#80E0DC] transition-colors"
+          >
+            Futura Camp
+          </a>
+          .
         </p>
       </div>
     </section>
