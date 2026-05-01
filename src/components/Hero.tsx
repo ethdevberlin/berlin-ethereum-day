@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { LuMic, LuTicket, LuMapPin, LuCalendar } from "react-icons/lu";
+import basePath from "@/lib/basePath";
 
 export default function Hero() {
   return (
@@ -10,7 +11,7 @@ export default function Hero() {
       <div className="relative max-w-5xl mx-auto px-6 py-20 md:py-32 flex flex-col items-center text-center gap-8">
         {/* Logo mark */}
         <Image
-          src="/logo-mark.webp"
+          src={`${basePath}/logo-mark.webp`}
           alt="Berlin Ethereum Day"
           width={160}
           height={160}

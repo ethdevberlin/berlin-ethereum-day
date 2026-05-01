@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { LuMic, LuTicket } from "react-icons/lu";
+import basePath from "@/lib/basePath";
 
 export default function Header() {
   return (
@@ -7,7 +8,7 @@ export default function Header() {
       <div className="max-w-5xl mx-auto flex justify-between items-center">
         <div className="flex items-center gap-3">
           <Image
-            src="/logo-mark.webp"
+            src={`${basePath}/logo-mark.webp`}
             alt="Berlin Ethereum Day logo"
             width={40}
             height={40}
