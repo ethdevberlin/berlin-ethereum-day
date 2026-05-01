@@ -7,7 +7,7 @@ export default function Header() {
       <div className="max-w-5xl mx-auto flex justify-between items-center">
         <div className="flex items-center gap-3">
           <Image
-            src="/logo-mark.png"
+            src="/logo-mark.webp"
             alt="Berlin Ethereum Day logo"
             width={40}
             height={40}
