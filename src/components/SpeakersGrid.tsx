@@ -9,7 +9,7 @@ function SpeakerCard({ speaker }: { speaker: Speaker }) {
     <div className="bg-gray-900 rounded-xl border border-gray-800 hover:border-gray-600 transition-colors p-6 flex flex-col items-center text-center gap-3">
       {speaker.photo ? (
         <Image
-          src={`${basePath}${speaker.photo}`}
+          src={speaker.photo.startsWith("http") ? speaker.photo : `${basePath}${speaker.photo}`}
           alt={speaker.name}
           width={80}
           height={80}
