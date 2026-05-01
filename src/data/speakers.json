@@ -1,38 +1,30 @@
 [
   {
     "name": "Martin Hansen",
-    "title": "TBA",
     "affiliation": "Ethereum Foundation",
-    "bio": null,
     "photo": null,
-    "twitter": null,
-    "website": null
+    "x": "https://x.com/MartinBreiten",
+    "github": null
   },
   {
     "name": "Raul Romanutti",
-    "title": "TBA",
     "affiliation": "Ethereum Foundation",
-    "bio": null,
     "photo": null,
-    "twitter": null,
-    "website": null
+    "x": "https://x.com/nachortti",
+    "github": null
   },
   {
     "name": "Parithosh Jayanthi",
-    "title": "TBA",
     "affiliation": "Ethereum Foundation",
-    "bio": null,
     "photo": null,
-    "twitter": null,
-    "website": null
+    "x": "https://x.com/parithosh_j",
+    "github": "https://github.com/parithosh"
   },
   {
     "name": "Nicolas Consigny",
-    "title": "TBA",
     "affiliation": "Ethereum Foundation",
-    "bio": null,
     "photo": null,
-    "twitter": null,
-    "website": null
+    "x": "https://x.com/ncsgy",
+    "github": null
   }
 ]

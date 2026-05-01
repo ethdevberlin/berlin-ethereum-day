@@ -1,13 +1,15 @@
 import Image from "next/image";
 import { LuUser } from "react-icons/lu";
+import { FaXTwitter, FaGithub } from "react-icons/fa6";
 import { Speaker } from "@/types/speaker";
+import basePath from "@/lib/basePath";
 
 function SpeakerCard({ speaker }: { speaker: Speaker }) {
   return (
     <div className="bg-gray-900 rounded-xl border border-gray-800 hover:border-gray-600 transition-colors p-6 flex flex-col items-center text-center gap-3">
       {speaker.photo ? (
         <Image
-          src={speaker.photo}
+          src={`${basePath}${speaker.photo}`}
           alt={speaker.name}
           width={80}
           height={80}
@@ -20,16 +22,34 @@ function SpeakerCard({ speaker }: { speaker: Speaker }) {
       )}
       <div>
         <p className="font-semibold text-white">{speaker.name}</p>
-        {speaker.title && speaker.title !== "TBA" && (
-          <p className="text-sm text-gray-400 mt-0.5">{speaker.title}</p>
-        )}
         {speaker.affiliation && (
           <p className="text-sm text-[#80E0DC] mt-0.5">{speaker.affiliation}</p>
         )}
       </div>
-      {speaker.bio && (
-        <p className="text-xs text-gray-500 leading-relaxed">{speaker.bio}</p>
-      )}
+      <div className="flex items-center gap-3 mt-1">
+        {speaker.x && (
+          <a
+            href={speaker.x}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-500 hover:text-white transition-colors"
+            title={`${speaker.name} on X`}
+          >
+            <FaXTwitter className="w-4 h-4" />
+          </a>
+        )}
+        {speaker.github && (
+          <a
+            href={speaker.github}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-500 hover:text-white transition-colors"
+            title={`${speaker.name} on GitHub`}
+          >
+            <FaGithub className="w-4 h-4" />
+          </a>
+        )}
+      </div>
     </div>
   );
 }

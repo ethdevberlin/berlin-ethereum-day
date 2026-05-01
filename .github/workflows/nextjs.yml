@@ -58,7 +58,6 @@ jobs:
       - name: Fetch speakers from Fillout
         env:
           FILLOUT_API_KEY: ${{ secrets.FILLOUT_API_KEY }}
-          FILLOUT_FORM_ID: ${{ secrets.FILLOUT_FORM_ID }}
         run: npm run fetch-speakers
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
