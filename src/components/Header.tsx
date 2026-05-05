@@ -34,7 +34,7 @@ export default function Header() {
             Apply to Speak
           </a>
           <a
-            href="#"
+            href="https://forms.gle/FCeGdMfWC8rzYPk47"
             target="_blank"
             rel="noopener noreferrer"
             title="Apply to Speak"
@@ -45,7 +45,7 @@ export default function Header() {
 
           {/* Register — full text desktop, icon-only mobile */}
           <a
-            href="#"
+            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 px-4 py-2 bg-[#C73E9C] text-white rounded-lg font-medium text-sm hover:opacity-90 transition-opacity"
@@ -54,7 +54,7 @@ export default function Header() {
             Register
           </a>
           <a
-            href="#"
+            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
             target="_blank"
             rel="noopener noreferrer"
             title="Register"
@@ -64,7 +64,7 @@ export default function Header() {
           </a>
 
           <a
-            href="https://github.com/ethdevberlin/berlin-ethereum-day"
+            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
             target="_blank"
             rel="noopener noreferrer"
             title="View source on GitHub"
