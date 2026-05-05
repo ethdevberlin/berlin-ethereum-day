@@ -49,16 +49,16 @@ export default function Hero() {
         {/* CTAs */}
         <div className="flex flex-col sm:flex-row items-center gap-3">
           <a
-            href="#"
+            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-[#C73E9C] text-white rounded-lg font-medium hover:opacity-90 transition-opacity"
           >
             <LuTicket className="w-5 h-5" />
-            Apply to Attend
+            Register to Attend
           </a>
           <a
-            href="#"
+            href="https://forms.gle/uCKrb9zFoa3K93L16"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-[#C73E9C] text-[#C73E9C] rounded-lg font-medium hover:bg-[#C73E9C]/10 transition-colors"
@@ -71,12 +71,12 @@ export default function Hero() {
         {/* Short intro */}
         <div className="max-w-2xl text-left sm:text-center mt-4 space-y-4 text-gray-300 leading-relaxed">
           <p>
-            Ethereum was built as enduring infrastructure for a free and open, permissionless world,
+            Ethereum was built as an enduring infrastructure for a free, open, and permissionless world,
             where users retain control over their digital lives and self-sovereignty.
           </p>
           <p>
             Join us in Berlin for a full day of sessions with speakers from the Ethereum Foundation
-            and the broader ecosystem, exploring Ethereum&apos;s future — its technical direction,
+            and the broader ecosystem, exploring Ethereum&apos;s future - its technical direction,
             core values, and the road ahead.
           </p>
         </div>
