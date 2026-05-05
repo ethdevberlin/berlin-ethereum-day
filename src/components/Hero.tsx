@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { LuMic, LuTicket, LuMapPin, LuCalendar } from "react-icons/lu";
+import { LuMic, LuTicket, LuMapPin, LuCalendar, LuHand } from "react-icons/lu";
 import basePath from "@/lib/basePath";
 
 export default function Hero() {
@@ -58,13 +58,22 @@ export default function Hero() {
             Register to Attend
           </a>
           <a
-            href="https://forms.gle/uCKrb9zFoa3K93L16"
+            href="https://forms.gle/J3iRTzK46vw16VEC8"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-[#C73E9C] text-[#C73E9C] rounded-lg font-medium hover:bg-[#C73E9C]/10 transition-colors"
           >
             <LuMic className="w-5 h-5" />
             Apply to Speak
+          </a>
+          <a
+            href="https://forms.gle/vH2evULdDG6U2QGZ6"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 px-6 py-3 border border-[#80E0DC] text-[#80E0DC] rounded-lg font-medium hover:bg-[#80E0DC]/10 transition-colors"
+          >
+            <LuHand className="w-5 h-5" />
+            Volunteer
           </a>
         </div>
 
