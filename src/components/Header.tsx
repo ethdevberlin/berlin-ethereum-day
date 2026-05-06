@@ -25,7 +25,7 @@ export default function Header() {
         <div className="flex items-center gap-2 sm:gap-3">
           {/* Apply to Speak — full text desktop, icon-only mobile */}
           <a
-            href="https://forms.gle/J3iRTzK46vw16VEC8"
+            href="https://pad.ethereum.org/form/#/2/form/view/AXumk43DE0TrDNAaMBYuCa9gdCAjQ-rKCAWRdskNTKw/"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 px-4 py-2 border border-[#C73E9C] text-[#C73E9C] rounded-lg font-medium text-sm hover:bg-[#C73E9C]/10 transition-colors"
@@ -34,7 +34,7 @@ export default function Header() {
             Apply to Speak
           </a>
           <a
-            href="https://forms.gle/J3iRTzK46vw16VEC8"
+            href="https://pad.ethereum.org/form/#/2/form/view/AXumk43DE0TrDNAaMBYuCa9gdCAjQ-rKCAWRdskNTKw/"
             target="_blank"
             rel="noopener noreferrer"
             title="Apply to Speak"
