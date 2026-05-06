@@ -11,7 +11,7 @@ export default function Hero() {
       <div className="relative max-w-5xl mx-auto px-6 py-20 md:py-32 flex flex-col items-center text-center gap-8">
         {/* Logo mark */}
         <Image
-          src={`${basePath}/logo-mark.webp`}
+          src={`${basePath}/logo-mark.png`}
           alt="Berlin Ethereum Day"
           width={160}
           height={160}
