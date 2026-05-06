@@ -45,7 +45,7 @@ export default function Header() {
 
           {/* Volunteer — full text desktop, icon-only mobile */}
           <a
-            href="https://forms.gle/vH2evULdDG6U2QGZ6"
+            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 px-4 py-2 border border-[#80E0DC] text-[#80E0DC] rounded-lg font-medium text-sm hover:bg-[#80E0DC]/10 transition-colors"
@@ -54,7 +54,7 @@ export default function Header() {
             Volunteer
           </a>
           <a
-            href="https://forms.gle/vH2evULdDG6U2QGZ6"
+            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
             target="_blank"
             rel="noopener noreferrer"
             title="Volunteer"
