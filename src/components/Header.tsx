@@ -84,7 +84,7 @@ export default function Header() {
           </a>
 
           <a
-            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
+            href="https://github.com/ethdevberlin/berlin-ethereum-day"
             target="_blank"
             rel="noopener noreferrer"
             title="View source on GitHub"
