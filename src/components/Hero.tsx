@@ -67,7 +67,7 @@ export default function Hero() {
             Apply to Speak
           </a>
           <a
-            href="https://forms.gle/vH2evULdDG6U2QGZ6"
+            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-[#80E0DC] text-[#80E0DC] rounded-lg font-medium hover:bg-[#80E0DC]/10 transition-colors"
