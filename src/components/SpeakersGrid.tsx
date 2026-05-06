@@ -65,12 +65,12 @@ export default function SpeakersGrid({ speakers }: { speakers: Speaker[] }) {
           <p className="text-gray-500 mt-2 text-sm">More to be announced</p>
         </div>
         <a
-          href="#"
+          href="https://forms.gle/b1ikZE5VdVwSiMK57"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#C73E9C] hover:opacity-80 transition-opacity text-sm font-medium flex items-center gap-1 shrink-0"
         >
-          Want to speak? Apply via Pretalx →
+          Interested in speaking? Apply here →
         </a>
       </div>
 
