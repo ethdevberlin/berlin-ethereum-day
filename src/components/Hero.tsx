@@ -13,9 +13,9 @@ export default function Hero() {
         <Image
           src={`${basePath}/logo-mark.svg`}
           alt="Berlin Ethereum Day"
-          width={160}
-          height={160}
-          className="w-24 h-24 md:w-36 md:h-36"
+          width={256}
+          height={256}
+          className="w-40 h-40 md:w-56 md:h-56"
           priority
         />
 
