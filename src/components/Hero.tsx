@@ -58,7 +58,7 @@ export default function Hero() {
             Register to Attend
           </a>
           <a
-            href="https://forms.gle/J3iRTzK46vw16VEC8"
+            href="https://pad.ethereum.org/form/#/2/form/view/AXumk43DE0TrDNAaMBYuCa9gdCAjQ-rKCAWRdskNTKw/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-[#C73E9C] text-[#C73E9C] rounded-lg font-medium hover:bg-[#C73E9C]/10 transition-colors"
