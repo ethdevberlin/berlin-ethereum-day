@@ -65,7 +65,7 @@ export default function SpeakersGrid({ speakers }: { speakers: Speaker[] }) {
           <p className="text-gray-500 mt-2 text-sm">More to be announced</p>
         </div>
         <a
-          href="https://forms.gle/b1ikZE5VdVwSiMK57"
+          href="https://forms.gle/J3iRTzK46vw16VEC8"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#C73E9C] hover:opacity-80 transition-opacity text-sm font-medium flex items-center gap-1 shrink-0"
