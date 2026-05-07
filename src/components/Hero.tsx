@@ -49,7 +49,7 @@ export default function Hero() {
         {/* CTAs */}
         <div className="flex flex-col sm:flex-row items-center gap-3">
           <a
-            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
+            href="https://tickets.berlinethereumday.com"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 bg-[#C73E9C] text-white rounded-lg font-medium hover:opacity-90 transition-opacity"
@@ -67,7 +67,7 @@ export default function Hero() {
             Apply to Speak
           </a>
           <a
-            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
+            href="https://tickets.berlinethereumday.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-6 py-3 border border-[#80E0DC] text-[#80E0DC] rounded-lg font-medium hover:bg-[#80E0DC]/10 transition-colors"
