@@ -45,7 +45,7 @@ export default function Header() {
 
           {/* Volunteer — full text desktop, icon-only mobile */}
           <a
-            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
+            href="https://tickets.berlinethereumday.com"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 px-4 py-2 border border-[#80E0DC] text-[#80E0DC] rounded-lg font-medium text-sm hover:bg-[#80E0DC]/10 transition-colors"
@@ -54,7 +54,7 @@ export default function Header() {
             Volunteer
           </a>
           <a
-            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
+            href="https://tickets.berlinethereumday.com"
             target="_blank"
             rel="noopener noreferrer"
             title="Volunteer"
@@ -65,7 +65,7 @@ export default function Header() {
 
           {/* Register — full text desktop, icon-only mobile */}
           <a
-            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
+            href="https://tickets.berlinethereumday.com"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-2 px-4 py-2 bg-[#C73E9C] text-white rounded-lg font-medium text-sm hover:opacity-90 transition-opacity"
@@ -74,7 +74,7 @@ export default function Header() {
             Register
           </a>
           <a
-            href="https://mum.ticketh.xyz/etheverywhere/berlinethday/"
+            href="https://tickets.berlinethereumday.com"
             target="_blank"
             rel="noopener noreferrer"
             title="Register"
