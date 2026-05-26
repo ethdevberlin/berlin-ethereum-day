@@ -24,7 +24,7 @@ export default function Organizers() {
           >
             Ethereum Foundation
           </a>{" "}
-          and members of the local community, and is hosted at Funkhaus by{" "}
+          and members of the local community, and is hosted at Funkhaus in collaboration with{" "}
           <a
             href="https://futura.camp/"
             target="_blank"
