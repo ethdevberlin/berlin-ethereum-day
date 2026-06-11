@@ -57,21 +57,11 @@ function SpeakerCard({ speaker }: { speaker: Speaker }) {
 export default function SpeakersGrid({ speakers }: { speakers: Speaker[] }) {
   return (
     <section id="speakers" className="max-w-5xl mx-auto px-6 py-16 md:py-24">
-      <div className="mb-10 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
-        <div>
-          <h2 className="text-3xl md:text-4xl font-bold text-white font-[family-name:var(--font-geist-mono)]">
-            Speakers
-          </h2>
-          <p className="text-gray-500 mt-2 text-sm">More to be announced</p>
-        </div>
-        <a
-          href="https://pad.ethereum.org/form/#/2/form/view/AXumk43DE0TrDNAaMBYuCa9gdCAjQ-rKCAWRdskNTKw/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-[#C73E9C] hover:opacity-80 transition-opacity text-sm font-medium flex items-center gap-1 shrink-0"
-        >
-          Interested in speaking? Apply here →
-        </a>
+      <div className="mb-10">
+        <h2 className="text-3xl md:text-4xl font-bold text-white font-[family-name:var(--font-geist-mono)]">
+          Speakers
+        </h2>
+        <p className="text-gray-500 mt-2 text-sm">More to be announced</p>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">

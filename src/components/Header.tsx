@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { LuMic, LuTicket, LuHand } from "react-icons/lu";
+import { LuTicket } from "react-icons/lu";
 import basePath from "@/lib/basePath";
 
 export default function Header() {
@@ -23,46 +23,6 @@ export default function Header() {
           </div>
         </div>
         <div className="flex items-center gap-2 sm:gap-3">
-          {/* Apply to Speak — full text desktop, icon-only mobile */}
-          <a
-            href="https://pad.ethereum.org/form/#/2/form/view/AXumk43DE0TrDNAaMBYuCa9gdCAjQ-rKCAWRdskNTKw/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hidden md:flex items-center gap-2 px-4 py-2 border border-[#C73E9C] text-[#C73E9C] rounded-lg font-medium text-sm hover:bg-[#C73E9C]/10 transition-colors"
-          >
-            <LuMic className="w-4 h-4" />
-            Apply to Speak
-          </a>
-          <a
-            href="https://pad.ethereum.org/form/#/2/form/view/AXumk43DE0TrDNAaMBYuCa9gdCAjQ-rKCAWRdskNTKw/"
-            target="_blank"
-            rel="noopener noreferrer"
-            title="Apply to Speak"
-            className="flex md:hidden items-center justify-center w-9 h-9 border border-[#C73E9C] text-[#C73E9C] rounded-lg hover:bg-[#C73E9C]/10 transition-colors"
-          >
-            <LuMic className="w-4 h-4" />
-          </a>
-
-          {/* Volunteer — full text desktop, icon-only mobile */}
-          <a
-            href="https://tickets.berlinethereumday.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hidden md:flex items-center gap-2 px-4 py-2 border border-[#80E0DC] text-[#80E0DC] rounded-lg font-medium text-sm hover:bg-[#80E0DC]/10 transition-colors"
-          >
-            <LuHand className="w-4 h-4" />
-            Volunteer
-          </a>
-          <a
-            href="https://tickets.berlinethereumday.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            title="Volunteer"
-            className="flex md:hidden items-center justify-center w-9 h-9 border border-[#80E0DC] text-[#80E0DC] rounded-lg hover:bg-[#80E0DC]/10 transition-colors"
-          >
-            <LuHand className="w-4 h-4" />
-          </a>
-
           {/* Register — full text desktop, icon-only mobile */}
           <a
             href="https://tickets.berlinethereumday.com"
