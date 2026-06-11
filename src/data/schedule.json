@@ -1,0 +1,245 @@
+[
+  {
+    "time": "10:00 - 10:15",
+    "speaker": "Eniko & Martin",
+    "project": "EF",
+    "sessionType": "Other",
+    "track": "Other",
+    "title": "Opening Remarks",
+    "abstract": ""
+  },
+  {
+    "time": "10:15 - 10:35",
+    "speaker": "Pari",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Core Protocol",
+    "title": "TBD > Strawmap, Core Protocol R&D",
+    "abstract": ""
+  },
+  {
+    "time": "10:35 - 10:45",
+    "speaker": "Mario Havel",
+    "project": "EF",
+    "sessionType": "Lightning (10 min)",
+    "track": "Core Protocol",
+    "title": "TBD > Core Protocol R&D > Fellowship, PG ?",
+    "abstract": ""
+  },
+  {
+    "time": "10:45 - 11:05",
+    "speaker": "Bhargava Shastry",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Core Protocol",
+    "title": "Securing Ethereum",
+    "abstract": ""
+  },
+  {
+    "time": "11:05 - 11:25",
+    "speaker": "Guillaume Ballet",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Core Protocol",
+    "title": "TBD",
+    "abstract": ""
+  },
+  {
+    "time": "11:25 - 11:45",
+    "speaker": "Sina",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Core Protocol",
+    "title": "FOCIL",
+    "abstract": ""
+  },
+  {
+    "time": "11:45 - 12:05",
+    "speaker": "Jacob Czepluch",
+    "project": "Solidity (Argot)",
+    "sessionType": "Talk (20 min)",
+    "track": "Smart contracts & Dev tools",
+    "title": "What's next for Solidity / Argot",
+    "abstract": ""
+  },
+  {
+    "time": "12:05 - 12:25",
+    "speaker": "Moritz Hoffmann",
+    "project": "Solidity (Argot)",
+    "sessionType": "Talk (20 min)",
+    "track": "Smart contracts & Dev tools",
+    "title": "stack-too-deep (SSA-CFG)",
+    "abstract": ""
+  },
+  {
+    "time": "12:25 - 12:45",
+    "speaker": "Stephane Tetsing",
+    "project": "Remix",
+    "sessionType": "Talk (20 min)",
+    "track": "Smart contracts & Dev tools",
+    "title": "TBD",
+    "abstract": ""
+  },
+  {
+    "time": "12:45 - 13:05",
+    "speaker": "Kaan Uzdogan",
+    "project": "Sourcify (Argot)",
+    "sessionType": "Talk (20 min)",
+    "track": "Smart contracts & Dev tools",
+    "title": "TBD",
+    "abstract": ""
+  },
+  {
+    "time": "13:05 - 13:15",
+    "speaker": "Mark Davis",
+    "project": "Open Source chip/wallet (working with ZKNox, Nico Consigny, etc.)",
+    "sessionType": "Lightning (10 min)",
+    "track": "Ecosystem",
+    "title": "Progress in Open Source Silicon and HW",
+    "abstract": "Ethereum is open, verifiable, permissionless, and trustless; but chips and HW used to drive inputs into Ethereum are very much not. This is a problem. We summarize the problem, and highlight a few efforts around the world seeking to improve this situation, including but not limited to our own. Crossbar has created the world’s first open MCU/SE, and various HW and SW based on it. We also demonstrate a practical use case, true self-sovereign custody based on complete transparency from silicon to UI."
+  },
+  {
+    "time": "13:15 - 14:00",
+    "speaker": "LUNCH",
+    "project": "",
+    "sessionType": "Other",
+    "track": "Other",
+    "title": "LUNCH",
+    "abstract": ""
+  },
+  {
+    "time": "14:00 - 14:20",
+    "speaker": "Nicolas Consigny",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Core Protocol",
+    "title": "Hash based signatures",
+    "abstract": ""
+  },
+  {
+    "time": "14:20 - 14:40",
+    "speaker": "Martin Hansen",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "Funding the Ethereum Kernel",
+    "abstract": ""
+  },
+  {
+    "time": "14:40 - 15:00",
+    "speaker": "Friederike Ernst",
+    "project": "Ethereum Economic Zone (EEZ) / Gnosis",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "TBD",
+    "abstract": ""
+  },
+  {
+    "time": "15:00 - 15:20",
+    "speaker": "Jordi Baylina",
+    "project": "Zisk",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "TBD",
+    "abstract": ""
+  },
+  {
+    "time": "15:20 - 15:30",
+    "speaker": "Sergey Shemyakov",
+    "project": "L2BEAT",
+    "sessionType": "Lightning (10 min)",
+    "track": "Ecosystem",
+    "title": "L2BEAT Privacy dashboard",
+    "abstract": ""
+  },
+  {
+    "time": "15:30 - 15:40",
+    "speaker": "Danish (nodestarQ)",
+    "project": "warptoad",
+    "sessionType": "Lightning (10 min)",
+    "track": "Ecosystem",
+    "title": "Crosschain State Without the Multisig",
+    "abstract": "Most crosschain apps quietly add a multisig, an MPC committee, or an optimistic oracle on top of otherwise-trustless rollups, silently downgrading every user's security model. They don't have to. Crosschain state can be built using only canonical L1<>L2 messaging plus ZK proofs over a shared root: slower than committee bridges, but with the same security profile as the underlying rollups. No new validators, no new trust assumptions, exit windows intact. I'll walk through the design pattern and ground it in warptoad, a unified-anonymity-set privacy bridge across Ethereum L1, Scroll, and Aztec, where every withdrawal is a ZK proof against a single aggregated GigaRoot."
+  },
+  {
+    "time": "15:40 - 16:00",
+    "speaker": "polymutex & Michael",
+    "project": "Walletbeat",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "CROPS for wallets: Rating Ethereum wallet ecosystem on its own values",
+    "abstract": "Ethereum is built around a clear set of values: Censorship Resistance, Openness, Privacy, and Security. Users experience Ethereum through wallets, yet most wallets today don't live up to these very values. Walletbeat is L2BEAT for wallets: An open framework that evaluates Ethereum wallets through CROPS values. This talk walks through how CROPS values map to wallets, what the current wallet landscape looks like, and what obstacles exist for wallets to fully embody Ethereum values. We'll cover where the Ethereum wallet ecosystem is making progress, where it's stuck, and what meaningful CROPS alignment actually looks like in practice for modern wallets."
+  },
+  {
+    "time": "16:00 - 16:20",
+    "speaker": "Kassandra",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "Kohaku Updates",
+    "abstract": ""
+  },
+  {
+    "time": "16:20 - 16:40",
+    "speaker": "Raul Romanutti & Beth Mccarthy",
+    "project": "EF & web3privacy",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "DWeb Camp",
+    "abstract": ""
+  },
+  {
+    "time": "16:40 - 17:00",
+    "speaker": "Mario Behling",
+    "project": "FOSSASIA",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "From Open Source to Open Commons: Lessons from FOSSASIA for Ethereum",
+    "abstract": "Mario Behling, founder of FOSSASIA, shares lessons from building open source communities, events, platforms, and contributor ecosystems across Asia and globally. The talk connects this experience with Ethereum’s long-term vision and CROPS principles, arguing that open source is free to use, fork, and adapt, but resilient, private, and secure infrastructure requires sustained funding, maintenance, and trusted ecosystem partners."
+  },
+  {
+    "time": "17:00 - 17:20",
+    "speaker": "Ornella",
+    "project": "EF / Devcon",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "Devcon Updates",
+    "abstract": ""
+  },
+  {
+    "time": "17:20 - 17:40",
+    "speaker": "Binji",
+    "project": "EF",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "Ideas for the next generation",
+    "abstract": "CROPS values are not as abstract as they may seem to a generation that has built their entire identity online. In this talk I will go over what the next generation is looking for and where we can meet them."
+  },
+  {
+    "time": "17:40 - 17:50",
+    "speaker": "Josef Je",
+    "project": "EEI",
+    "sessionType": "Lightning (10 min)",
+    "track": "Ecosystem",
+    "title": "",
+    "abstract": ""
+  },
+  {
+    "time": "17:50 - 18:10",
+    "speaker": "Grace Rachmany",
+    "project": "Decentralized Identity Foundation",
+    "sessionType": "Talk (20 min)",
+    "track": "Ecosystem",
+    "title": "Where's My Network State Passport?",
+    "abstract": "Despite all the talk of sovereignty, DAOs as a new form of governance, and Network States, the Web3 communities have not solved the problems of identity. In a world where our governments are creating strong surveillance-enabling identity system, we are still struggling with cross-chain identity, clunky reputation systems, and fragmented systems. Even worse, many of those who declare their commitment to freedom, sovereignty, and privacy are using KYC/AML systems that plug people into the same surveillance systems. What is the state of digital identity in the Web3 and Network State world today, and what would it take to create identity systems that would serve our communities?"
+  },
+  {
+    "time": "18:10 - 18:15",
+    "speaker": "Eniko",
+    "project": "EF",
+    "sessionType": "Other",
+    "track": "Ecosystem",
+    "title": "Closing",
+    "abstract": ""
+  }
+]

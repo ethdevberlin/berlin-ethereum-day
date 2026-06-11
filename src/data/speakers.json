@@ -4,27 +4,181 @@
     "affiliation": "Ethereum Foundation",
     "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/qsjwVmgrXeZsrw1b81tn2D/martin-mask.jpg",
     "x": "https://x.com/MartinBreiten",
-    "github": null
+    "github": ""
   },
   {
     "name": "Raul Romanutti",
     "affiliation": "Ethereum Foundation",
     "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/utCzgdHWhWetiXc8w6i2he/raul-mask.jpg",
     "x": "https://x.com/nachortti",
-    "github": null
+    "github": ""
   },
   {
     "name": "Parithosh Jayanthi",
     "affiliation": "Ethereum Foundation",
-    "photo": null,
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/4WL1Tcr3o4WPtv5DpPmVhr/x5MkzrAf_400x400.jpg",
     "x": "https://x.com/parithosh_j",
     "github": "https://github.com/parithosh"
   },
   {
     "name": "Nicolas Consigny",
     "affiliation": "Ethereum Foundation",
-    "photo": null,
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/wpyVPKActG4jcu86XXYJtq/_fxQx81g_400x400.jpg",
     "x": "https://x.com/ncsgy",
-    "github": null
+    "github": "https://github.com/nconsigny"
+  },
+  {
+    "name": "Kaan Uzdogan",
+    "affiliation": "Argot Collective",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/wQd3ymwVBE1CCnPUcnx6Lx/Kaan-sq.jpg",
+    "x": "https://x.com/kaanuzdogan",
+    "github": "https://github.com/kuzdogan"
+  },
+  {
+    "name": "Bhargava Shastry",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/n7hYs9tTrxtcuqFDmjbcST/Zy97IKSS_400x400.jpg",
+    "x": "https://x.com/ibags",
+    "github": "https://bshastry.github.io/"
+  },
+  {
+    "name": "Moritz Hoffmann",
+    "affiliation": "Solidity / Argot Collective",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/crWreAJPWBdgj78VRgNbiC/1685266.png",
+    "x": "",
+    "github": "https://github.com/clonker"
+  },
+  {
+    "name": "Jacob Czepluch",
+    "affiliation": "Solidity / Argot Collective",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/3DDKucNvFt2CCp55xnZwuR/SXpl7fCM_400x400.jpg",
+    "x": "https://x.com/_czepluch",
+    "github": "https://github.com/czepluch"
+  },
+  {
+    "name": "Guillaume Ballet",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/wYfCiLRTYwfBqZZdue8kyh/-1LUYnWJ_400x400.jpg",
+    "x": "https://x.com/gballet",
+    "github": "https://github.com/gballet"
+  },
+  {
+    "name": "Josef Jelacic",
+    "affiliation": "European Ethereum Institute (EEI) / OWN",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/1DmR4iyUSwKiopMZsmQE3n/XJxPciQw_400x400.jpg",
+    "x": "https://x.com/JosefJ_",
+    "github": ""
+  },
+  {
+    "name": "Friederike Ernst",
+    "affiliation": "Ethereum Economic Zone (EEZ) / Gnosis",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/76QAae7R4VKv2gSfqd6qCW/photo_2026-05-27_12-21-50df.jpg",
+    "x": "https://x.com/tw_tter?lang=en",
+    "github": ""
+  },
+  {
+    "name": "Kassandra",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/t1CEvAp1Upixk5h7q6gGsV/13vLQpPw_400x400-(1).jpg",
+    "x": "https://x.com/kassandraETH",
+    "github": "https://github.com/kassandraoftroy"
+  },
+  {
+    "name": "Jordi Baylina",
+    "affiliation": "ZisK",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/aEg6U4YheJU3Q8qR8DrPSy/HHm2vcsM_400x400.jpg",
+    "x": "https://x.com/jbaylina",
+    "github": "https://github.com/jbaylina"
+  },
+  {
+    "name": "Grace Rachmany",
+    "affiliation": "Decentralized Identity Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/7SRvTDYReCipzaKtPNYaVH/CaUHBQ8v_400x400.jpg",
+    "x": "https://x.com/GraceRachmany",
+    "github": "https://github.com/gracerachmany"
+  },
+  {
+    "name": "Mario Havel",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/f7g69pvGpstDN8gXXP1W7Z/3FeDe54c_400x400.jpg",
+    "x": "https://x.com/TMIYChao",
+    "github": "https://github.com/taxmeifyoucan"
+  },
+  {
+    "name": "Stephane Tetsing",
+    "affiliation": "Remix",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/qr8Nr9asPWxEP5rvrgJLay/photo_2026-06-03_12-50-12.jpg",
+    "x": "",
+    "github": "https://github.com/STetsing"
+  },
+  {
+    "name": "Sergey Shemyakov",
+    "affiliation": "L2BEAT",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/txve1B4r6AjFi9crwyUq6h/2026-sergey-shemyakov-7356a1588a.jpg",
+    "x": "https://x.com/sergeyshemyakov",
+    "github": ""
+  },
+  {
+    "name": "Beth Mccarthy",
+    "affiliation": "Web3Privacy Now",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/1SmYx1e2Mj6eosHoT2DtL1/D1-xFP1h_400x400.jpg",
+    "x": "https://x.com/ontologymachine",
+    "github": ""
+  },
+  {
+    "name": "polymutex",
+    "affiliation": "Walletbeat",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/svcWPsgL9mvharHqA2BCj6/d301xzgn_400x400.jpg",
+    "x": "https://x.com/polymutex",
+    "github": ""
+  },
+  {
+    "name": "Binji",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/aArW6ubGD23TtFDAACRxXs/Ns8EleJw_400x400.jpg",
+    "x": "https://x.com/binji_x",
+    "github": ""
+  },
+  {
+    "name": "Eniko",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/wxnvcKY4LLzH19fz6GxZay/S4Cw74e__400x400.jpg",
+    "x": "https://x.com/Eniko_G",
+    "github": ""
+  },
+  {
+    "name": "Sina Mahmoodi",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/v1ioorMwH3z6fB2h4FGux7/1591639.png",
+    "x": "https://x.com/sina_mahmoodi",
+    "github": "https://github.com/s1na"
+  },
+  {
+    "name": "Ornella",
+    "affiliation": "Ethereum Foundation",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/gJF33d9oZL1smnv9cuCf5i/OeffB4Oi_400x400.jpg",
+    "x": "https://x.com/OrnellaWeb3",
+    "github": ""
+  },
+  {
+    "name": "Mark Davis",
+    "affiliation": "Crossbar Inc.",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/kHhjF3eb3ZzZ9kWUi3J7ti/1517687504953.jpg",
+    "x": "",
+    "github": "https://github.com/crossbar-inc"
+  },
+  {
+    "name": "Danish",
+    "affiliation": "warptoad",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/91AcVtTiPLUi9HLQ6y9uTZ/48290442.png",
+    "x": "https://x.com/nodestarQ",
+    "github": "https://github.com/nodestarQ"
+  },
+  {
+    "name": "Mario Behling",
+    "affiliation": "FOSSASIA",
+    "photo": "https://files.zite.com/orgid-276309/base-98aa8e3a65b56754/fieldid-feCef3uEeLK/3dPdYnAvpg5Q6W7hau4arT/photo_2019-11-27_07-51-02.jpg",
+    "x": "https://x.com/mariobehling",
+    "github": ""
   }
 ]

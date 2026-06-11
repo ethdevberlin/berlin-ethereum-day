@@ -61,6 +61,11 @@ jobs:
         env:
           FILLOUT_API_KEY: ${{ secrets.FILLOUT_API_KEY }}
         run: npm run fetch-speakers
+      - name: Fetch schedule from Fillout
+        env:
+          FILLOUT_API_KEY: ${{ secrets.FILLOUT_API_KEY }}
+          SCHEDULE_TABLE_ID: ${{ secrets.SCHEDULE_TABLE_ID }}
+        run: npm run fetch-schedule
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
       - name: Upload artifact
