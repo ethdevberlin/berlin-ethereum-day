@@ -15,7 +15,7 @@ export default function Venue() {
                 The event will be held at Funkhaus (Nalepastraße 18, 12459 Berlin, Germany), a
                 historic riverside venue known for hosting some of Berlin&apos;s most distinctive
                 cultural and technology gatherings.
-                The program will be held at Studio 1 (Saal 1).  {" "}
+                The program will be held at Studio 1 (Saal 1).{" "}
                
           <a
             href="https://www.funkhaus-berlin.net/p/map-directions.html"
